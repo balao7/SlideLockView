@@ -20,13 +20,13 @@
         android:layout_centerInParent="true"
         android:layout_marginLeft="38dp"
         android:layout_marginRight="38dp"
-        android:background="@drawable/ic_run_lock_rectangle_bg">
+        android:background="@drawable/ic_lock_rectangle_bg">
 
         <ImageView
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_centerVertical="true"
-            android:background="@drawable/ic_run_lock"/>
+            android:background="@drawable/ic_lock"/>
 
         <TextView
             android:layout_width="wrap_content"

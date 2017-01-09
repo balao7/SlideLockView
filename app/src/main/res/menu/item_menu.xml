@@ -8,4 +8,10 @@
         android:orderInCategory="100"
         android:title="viewdraghelper01"
         app:showAsAction="withText"/>
+
+    <item
+        android:id="@+id/action_viewdraghelper02"
+        android:orderInCategory="100"
+        android:title="viewdraghelper02"
+        app:showAsAction="withText"/>
 </menu>

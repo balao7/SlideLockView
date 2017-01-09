@@ -29,6 +29,10 @@ public class MainActivity extends AppCompatActivity {
             case R.id.action_viewdraghelper01:
                 startActivity(new Intent(this,ViewDragHelper01Activity.class));
                 break;
+            case R.id.action_viewdraghelper02:
+                startActivity(new Intent(this,ViewDragHelper02Activity.class));
+                break;
+
         }
         return super.onOptionsItemSelected(item);
     }

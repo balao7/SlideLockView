@@ -17,6 +17,7 @@
         </activity>
 
         <activity android:name=".ViewDragHelper01Activity"/>
+        <activity android:name=".ViewDragHelper02Activity"/>
 
 
     </application>
